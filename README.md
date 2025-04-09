@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,kotlin,react-native" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,AndroidStudio" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,AndroidStudio" />
+    <img src="https://skillicons.dev/icons?i=Arduino,AndroidStudio" /><br>
 </div>
 
 <br/>
